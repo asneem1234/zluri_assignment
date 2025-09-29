@@ -215,7 +215,7 @@ Three primary personas identified through stakeholder interviews:
 ## 📞 Contact & Support
 
 **Project Owner:** Asneem Athar Shaik  
-**Email:** [Your Email](atharasneemshaik@gmail.com) 
+**Email:** [atharasneemshaik@gmail.com](atharasneemshaik@gmail.com) 
 **GitHub:** [@asneem1234](https://github.com/asneem1234)  
 **Repository:** https://github.com/asneem1234/zluri_assignment
 
